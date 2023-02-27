@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+templates
+model.pkl
+seeds_dataset.txt
+transform.pkl
+wheat classification.ipynb_checkpoints
+wheat.csv
